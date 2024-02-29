@@ -13,7 +13,7 @@ All files included are generated from the various activities done throughout the
 
 ## Members
 
-The Group 5 Members:
+The Group 5 Members:  
 **Altaire Faith C. Española**   - @altairefaith | <afcespanola@mymail.mapua.edu.ph>  
 **John Friedrich B. Espiritu**  - @rixfxol      | <jfbespiritu@mymail.mapua.edu.ph>  
 **Cyril B. Recuenco**           - @Vyrik554     | <cbrecuenco@mymail.mapua.edu.ph>  
