@@ -3,4 +3,4 @@ bin/
 build/
 
 # IDE-Specific Directories
-# .vscode/
+.vscode/
