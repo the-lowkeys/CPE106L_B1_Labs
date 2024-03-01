@@ -45,7 +45,7 @@ bool card::suit(card::card_suit set_suit)
 bool card::is_equal_to(card other_card)
 {
     //Check if the same object, then rank
-    if (this->c_rank == other_card.c_rank) return true;
+    if ((this->c_rank == other_card.c_rank) && (this->c_suit == other_card.c_suit)) return true;
     return false;
 }
 
