@@ -12,7 +12,7 @@
                 "${workspaceFolder}\\src\\*.cpp",
                 "${workspaceFolder}\\src\\components\\*.cpp",
                 "-o",
-                "${workspaceFolder}\\bin\\${fileBasenameNoExtension}.exe"
+                "${workspaceFolder}\\bin\\game_of_war.exe"
             ],
             "options": {
                 "cwd": "C:\\Users\\CPE106L-B1-13\\Downloads\\compilers\\mingw64\\bin"
@@ -35,7 +35,7 @@
                 "${workspaceFolder}\\src\\*.cpp",
                 "${workspaceFolder}\\src\\components\\*.cpp",
                 "-o",
-                "${workspaceFolder}\\bin\\${fileBasenameNoExtension}.exe"
+                "${workspaceFolder}\\bin\\game_of_war.exe"
             ],
             "options": {
                 "cwd": "D:\\Archives\\Codeirectory\\Compilers\\mingw64\\bin"

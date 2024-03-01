@@ -7,7 +7,7 @@
 //Source Headers
 #include "game.hpp"
 
-int main(void)
+int main()
 {
     game* start_game = new game;
     return 0;

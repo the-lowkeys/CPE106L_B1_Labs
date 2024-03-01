@@ -11,7 +11,7 @@
 #include "card.hpp"
 
 
-void deck::deal_piles(pile player_a_pile, pile player_b_pile)
+void deck::deal_piles(pile& player_a_pile, pile& player_b_pile)
 {
     while (!(this->card_deck.empty()))
     {

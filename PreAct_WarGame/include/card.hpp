@@ -47,7 +47,7 @@ class card
         card_suit c_suit;
 
         //Member Definitions
-        const std::array<std::string, 13> rank_identifiers =
+        std::array<std::string, 13> rank_identifiers =
         {
             "Two",
             "Three",
@@ -64,7 +64,7 @@ class card
             "Ace"
         };
 
-        const std::array<std::string, 4> suit_identifier =
+        std::array<std::string, 4> suit_identifier =
         {
             "Clubs",
             "Diamonds",

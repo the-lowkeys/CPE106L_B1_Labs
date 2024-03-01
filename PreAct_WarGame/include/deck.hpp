@@ -19,7 +19,7 @@ class deck
 
     public:
         //Member Methods
-        void deal_piles(pile player_a_pile, pile player_b_pile);
+        void deal_piles(pile& player_a_pile, pile& player_b_pile);
 
         //Constructors
         deck();
