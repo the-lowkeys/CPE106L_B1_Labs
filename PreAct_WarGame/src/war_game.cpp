@@ -9,7 +9,6 @@
 
 int main(void)
 {
-    
-
+    game* start_game = new game;
     return 0;
 }

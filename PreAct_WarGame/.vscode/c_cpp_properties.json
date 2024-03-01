@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "Win32LabPC",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
@@ -11,6 +11,19 @@
                 "_UNICODE"
             ],
             "compilerPath": "C:\\Users\\CPE106L-B1-13\\Downloads\\compilers\\mingw64\\bin\\g++.exe"
+        },
+        {
+            "name": "Win32MainPC",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\Archives\\Codeirectory\\Compilers\\mingw64\\bin\\g++.exe"
+
         }
     ],
     "version": 4

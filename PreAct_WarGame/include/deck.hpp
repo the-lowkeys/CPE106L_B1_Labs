@@ -6,19 +6,20 @@
 #define INCLUDE_DECK_HPP
 
 //Source Includes
-#include "player.hpp"
 #include "pile.hpp"
 #include "card.hpp"
 
 class deck
 {
+    //Constants
+    const static int MAX_DECK_SIZE = 52;
+
     //Member Variables
     pile card_deck;
 
     public:
         //Member Methods
-        void shuffle();
-        void deal_to(player player_a, player player_b);
+        void deal_piles(pile player_a_pile, pile player_b_pile);
 
         //Constructors
         deck();

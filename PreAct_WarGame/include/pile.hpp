@@ -13,12 +13,7 @@
 //Source Includes
 #include "card.hpp"
 
-class pile : public std::stack<card> 
-{
-    public:
-        //Constructors
-        pile();
-        pile(pile& some_pile);
-};
+//Yes. This is literally our definition for pile.
+class pile : public std::stack<card> {};
 
 #endif
