@@ -1,6 +1,0 @@
-# Output Directories
-bin/
-build/
-
-# IDE-Specific Directories
-.vscode/
