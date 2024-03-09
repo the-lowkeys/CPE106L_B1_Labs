@@ -40,8 +40,13 @@ print("The median is" , median)
 
 
 def compMode(lst):
-    
-    return mode
+    freq = max(list(map(lst.count, lst))) #finds what number shows up more often
+    mode = list(set(filter(
+        lambda x: lst.count(x) == freq, lst))) #func to see other modes; numbers with equal freq
+    return mode # returns a list
+
+mode = compMode(userlist)
+print("The mode is" , mode)
 
 
 def compMean(lst):
