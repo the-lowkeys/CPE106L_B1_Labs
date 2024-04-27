@@ -4,7 +4,7 @@ This module defines the Bank class.
 """
 import pickle
 import random
-from savingsaccount import SavingsAccount
+from PostLabSolution3p2 import SavingsAccount
 
 class Bank:
     """This class represents a bank as a collection of savings accounts.
