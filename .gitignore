@@ -1,0 +1,5 @@
+# Ignore .venv Folders
+/.venv
+/Scripts
+/Lib
+/Include
