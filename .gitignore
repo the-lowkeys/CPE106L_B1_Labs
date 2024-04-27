@@ -8,4 +8,4 @@
 **/__pycache__
 
 # Ignore LAB5 Autocreated Databases
-*.db
+*.db-journal
