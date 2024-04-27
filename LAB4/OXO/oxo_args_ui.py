@@ -1,7 +1,7 @@
 ''' CLI User Interface for Tic-Tac-Toie game.
     Use as the main program, no reusable functions'''
 
-import oxo_logic
+from .oxo_logic import oxo_logic
 import argparse as ap
 
 menu = ["Start new game",
